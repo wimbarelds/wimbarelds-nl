@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="128" viewBox="0 0 128 128" width="128" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <g id="stack"><path d="M 19 47 C 28 69, 100 69, 109 47 L 109 65 C 100 89, 28 89, 19 65 Z" style="fill:white;" /></g>
+  </defs>
+  <ellipse cx="64" cy="26" rx="45" ry="20" style="fill:white;" />
+  <use xlink:href="#stack" x="0" y="-12" />
+  <use xlink:href="#stack" x="0" y="13" />
+  <use xlink:href="#stack" x="0" y="38" />
+</svg>

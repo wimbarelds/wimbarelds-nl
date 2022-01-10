@@ -23,7 +23,7 @@ export default class AboutMe extends Vue {
   @InjectReactive() prefersReducedMotion!: boolean;
   smallScreen = false;
   slides: string[] = ['who-am-i', 'skills', 'links'];
-  curSlide = 1;
+  curSlide = 0;
   transitionActive = false;
 
   private _resizeObserver!: ResizeObserver;
